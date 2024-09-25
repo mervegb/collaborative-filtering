@@ -6,4 +6,4 @@ Collaborative Filtering works by analying user interactions with items (such as 
 - Item-Based Filtering: finds items similar to ones a user has interacted with and recommends those items
 
 
-  In this project, focus is on item-based filtering, recommending movies that are similar to a movie that the user has already watched.
+In this project, focus is on item-based filtering, recommending movies that are similar to a movie that the user has already watched.
